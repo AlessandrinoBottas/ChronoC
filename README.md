@@ -20,16 +20,12 @@
 
 - `icon.png`: Icon representing the application.
 
----
-
 ## 🛠️ Requirements
 
 - **Operating System**: Unix-like system (Linux, macOS)
 - **Compiler**: GCC
 - **Libraries**:
   - `ncurses`: For managing the text-based user interface.
-
----
 
 ## ⚙️ Compilation
 
@@ -41,17 +37,13 @@ make
 
 This will produce an executable named `chrono`.
 
----
-
 ## 🚀 Execution
 
 After compilation, start the application with:
 
 ```bash
-./chrono
+./ChronoC
 ```
-
----
 
 ## 🧹 Clean Up
 
@@ -61,12 +53,8 @@ To remove compiled objects and the executable, run:
 make clean
 ```
 
----
-
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+IDK what licenses are.
 
 Feel free to contribute or suggest improvements!
