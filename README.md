@@ -1,5 +1,6 @@
 # ⏱️ ChronoC
-<img width="1292" alt="image" src="https://github.com/user-attachments/assets/9fc66d96-ca75-4164-ab0e-ca84dce55fc3" />
+<img width="1292" alt="Screenshot 2025-05-24 alle 16 17 44" src="https://github.com/user-attachments/assets/1246725a-b13d-458a-84b1-b67ffd1064f7" />
+
 **ChronoC** is a terminal-based stopwatch application written in C, utilizing the `ncurses` library to provide an interactive text-based user interface. The project is structured modularly, separating concerns such as timekeeping, display, menu navigation, and utility functions for maintainability and clarity.
 
 ---
